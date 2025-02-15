@@ -4,7 +4,6 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolviment
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Sistemas de Informação** pelo **Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí** - **UNIDAVI**
-- Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí
 - 💻 Focado em **HTML, CSS, JavaScript, Desenvolvimento Front-End em modo geral**
 - 📍 Resido em **Rio do Sul - Santa Catarina**
 - ⚡ Buscando sempre aprender e evoluir!
