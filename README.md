@@ -18,12 +18,12 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolviment
 
 ## 📚 Linguagens e Ferramentas em Aprendizado
 
-📌 Já trabalhei em projetos acadêmicos com:
+#### 📌 Já trabalhei em projetos acadêmicos com:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-📌 Atualmente aprendendo:
+#### 📌 Atualmente aprendendo:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📊 Estatísticas
