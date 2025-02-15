@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Gabriel Steffens!
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolvimento de software e estratégias para experiência do usuário e design!
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolvimento de software, estratégias para experiência do usuário e design!
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Sistemas de Informação** pelo **Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí** - **UNIDAVI**
