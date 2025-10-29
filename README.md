@@ -1,37 +1,47 @@
-# 👋 Olá, me chamo Gabriel Steffens!
+<h1 align="center">Olá, me chamo Gabriel Steffens!</h1>
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolvimento de software, estratégias para experiência do usuário e design!
-Esse perfil guarda meus repositórios acadêmcicos, e projetos pessoais também!
-
-## 🚀 Sobre mim
-- 🎓 Estudante de **Sistemas de Informação** pelo **Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí** - **UNIDAVI**
-- 💻 Focado em **HTML, CSS, JavaScript, Desenvolvimento Front-End em modo geral**
-- 📍 Resido em **Rio do Sul - Santa Catarina**
-- ⚡ Buscando sempre aprender e evoluir!
-
-## 🛠 Tecnologias e Ferramentas
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-
-## 📚 Linguagens e Ferramentas em Aprendizado
-
-#### 📌 Já trabalhei em projetos acadêmicos com:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 📌 Atualmente aprendendo:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-## 📊 Estatísticas
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabste8831&layout=compact&theme=dracula)
-
-## 📬 Entre em contato comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-steffens-619657287/)
-- ✉️ Email: **gabrielsteffens2003@gmail.com**
+<p align="center">
+  <em>Bacharel em Sistemas de Informação (2026) • Desenvolvedor FrontEnd • Desenvolvedor FullStack em Formação</em>
+</p>
 
 ---
-⭐️ **Se gostou do meu perfil, deixe uma estrela em algum repositório!** 🚀
+
+<p align="center">
+  Em meu perfil você encontra projetos pessoais, e trabalhos / práticas de minha jornada acadêmica. Sou estudante do curso de sistemas de informação e atualmente atuo como desenvolvedor FrontEnd. Tecnologia, criatividade e clareza são pontos base que tento transmitir em meus códigos! Fique a vontade!
+</p> 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-steffens-619657287/">
+    <img src="https://img.shields.io/badge/-LinkedIn-5353ec?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://portfolio-gabriel-steffens.vercel.app/">
+    <img src="https://img.shields.io/badge/-Site Portfólio-5353ec?style=flat-square&logo=Google-Chrome&logoColor=white">
+  </a>
+  <a href="mailto:gabrielsteffens2003@gmail.com">
+    <img src="https://img.shields.io/badge/-gabrielsteffens2003@gmail.com-5353ec?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🧠 Sobre mim
+
+- 🔭 Desenvolvedor FrontEnd pela [Apresenta.Me](https://apresenta.me/).
+- 🎓 Estudante do Curso Sistemas de Informação pela [UNIDAVI](https://www.unidavi.edu.br/).
+- ✨ Desenvolvedor FullStack em Formação.
+
+---
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabste8831&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### 🔨 HardSkills e ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,less,photoshop,figma,javascript,typescript,react)](https://skillicons.dev" />
+  </a>
+</p>
