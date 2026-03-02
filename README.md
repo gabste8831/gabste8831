@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  Em meu perfil você encontra projetos pessoais, e trabalhos / práticas de minha jornada acadêmica. Sou estudante do curso de sistemas de informação e atualmente atuo como desenvolvedor FrontEnd. Tecnologia, criatividade e clareza são pontos base que tento transmitir em meus códigos! Fique a vontade!
+  Em meu perfil você encontra projetos pessoais, e trabalhos / práticas de minha jornada acadêmica. Sou estudante do curso de sistemas de informação e atualmente atuo como desenvolvedor Backend em migração de dados. Tecnologia, criatividade e clareza são pontos base que tento transmitir em meus códigos! Fique a vontade!
 </p> 
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ### 🧠 Sobre mim
 
-- 🔭 Desenvolvedor FrontEnd pela [Apresenta.Me](https://apresenta.me/).
+- 🔭 Desenvolvedor Backend pela [Apresenta.Me](https://apresenta.me/).
 - 🎓 Estudante do Curso Sistemas de Informação pela [UNIDAVI](https://www.unidavi.edu.br/).
 - ✨ Desenvolvedor FullStack em Formação.
 
