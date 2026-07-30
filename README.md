@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/gabriel-steffens-619657287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-gabriel-steffens.vercel.app/" target="_blank">
+  <a href="https://gabrielsteffens.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-63625f?style=for-the-badge" height="24" alt="Portfólio" />
   </a>
   <a href="mailto:gabrielsteffens2003@gmail.com">
