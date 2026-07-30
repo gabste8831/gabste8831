@@ -1,47 +1,41 @@
-<h1 align="center">Olá, me chamo Gabriel Steffens!</h1>
+<h1 align="start">Gabriel Steffens</h1>
 
-<p align="center">
-  <em>Bacharel em Sistemas de Informação (2026) • Desenvolvedor FrontEnd • Desenvolvedor FullStack em Formação</em>
+<p align="start">
+  <code>22 anos</code> &nbsp;•&nbsp;<code>Full Stack Developer</code> &nbsp;•&nbsp; <code>Bacharel em Sistemas de Informação (2026)</code>
 </p>
 
----
-
-<p align="center">
-  Em meu perfil você encontra projetos pessoais, e trabalhos / práticas de minha jornada acadêmica. Sou estudante do curso de sistemas de informação e atualmente atuo como desenvolvedor Backend em migração de dados. Tecnologia, criatividade e clareza são pontos base que tento transmitir em meus códigos! Fique a vontade!
-</p> 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-steffens-619657287/">
-    <img src="https://img.shields.io/badge/-LinkedIn-5353ec?style=flat-square&logo=Linkedin&logoColor=white">
+<div align="start">
+  <a href="https://www.linkedin.com/in/gabriel-steffens-619657287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-gabriel-steffens.vercel.app/">
-    <img src="https://img.shields.io/badge/-Site Portfólio-5353ec?style=flat-square&logo=Google-Chrome&logoColor=white">
+  <a href="https://portfolio-gabriel-steffens.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-63625f?style=for-the-badge" height="24" alt="Portfólio" />
   </a>
   <a href="mailto:gabrielsteffens2003@gmail.com">
-    <img src="https://img.shields.io/badge/-gabrielsteffens2003@gmail.com-5353ec?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="24" alt="E-mail" />
   </a>
-</p>
+</div>
 
----
+<h1 />
 
-### 🧠 Sobre mim
+### Trajetória & Atuação
 
-- 🔭 Desenvolvedor Backend pela [Apresenta.Me](https://apresenta.me/).
-- 🎓 Estudante do Curso Sistemas de Informação pela [UNIDAVI](https://www.unidavi.edu.br/).
-- ✨ Desenvolvedor FullStack em Formação.
+**Atualidade:** Desenvolvedor Backend na [Apresenta.Me](https://apresenta.me/) - Migração e análise de dados. <br />
+**Formação:** Graduando em Sistemas de Informação pela [Unidavi](https://www.unidavi.edu.br/). <br />
+**Foco de Estudo:** Engenharia de Software, DevOps e Desenvolvimento Full Stack.
 
----
+<h1></h1>
 
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabste8831&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
+### Stacks & Ferramentas
 
----
-
-### 🔨 HardSkills e ferramentas
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,less,photoshop,figma,javascript,typescript,react)](https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,angular,react,vue,nodejs,postgres,mysql,mongodb,docker,aws,git,ps&theme=dark&perline=8" height="70" />
   </a>
 </p>
+
+<h1></h1>
+
+<p>Perfil pessoal<br/>
+Busco manter constância entre minhas contribuições e conhecimento entre múltiplas áreas de desenvolvimento.<br /> 
+Repositórios com projetos pessoais, freelances, projetos acadêmicos e demais práticas. Fique avontade.</p>
