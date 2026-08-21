@@ -1,7 +1,7 @@
 <h1 align="start">Gabriel Steffens</h1>
 
 <p align="start">
-  <code>22 anos</code> &nbsp;•&nbsp;<code>Full Stack Developer</code> &nbsp;•&nbsp; <code>Bacharel em Sistemas de Informação (2026)</code>
+  <code>23 anos</code> &nbsp;•&nbsp;<code>Full Stack Developer</code> &nbsp;•&nbsp; <code>Bacharel em Sistemas de Informação (2026)</code>
 </p>
 
 <div align="start">
