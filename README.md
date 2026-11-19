@@ -11,7 +11,7 @@
   <a href="https://gabrielsteffens.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-63625f?style=for-the-badge" height="24" alt="Portfólio" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielsteffens2003@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielsteffensdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="24" alt="E-mail" />
   </a>
 </div>
