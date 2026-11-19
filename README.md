@@ -20,9 +20,9 @@
 
 ### Trajetória & Atuação
 
-**Atualidade:** Desenvolvedor Backend na [Apresenta.Me](https://apresenta.me/) - Migração e análise de dados. <br />
+**Atualidade:** Desenvolvedor de Software na [AleTech]([https://apresenta.me/](https://aletech.com.br/)). <br />
 **Formação:** Graduando em Sistemas de Informação pela [Unidavi](https://www.unidavi.edu.br/). <br />
-**Foco de Estudo:** Engenharia de Software, DevOps e Desenvolvimento Full Stack.
+**Foco de Estudo:** Engenharia de Software, DevOps, Desenvolvimento Full Stack e IA.
 
 <h1></h1>
 
